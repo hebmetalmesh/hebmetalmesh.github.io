@@ -73,7 +73,7 @@ pageviews:
 # ================================
 
 theme_mode:
-avatar: /assets/img/avatar.jpg
+avatar: /assets/img/logo.png
 social_preview_image:
 cdn:
 toc: true
