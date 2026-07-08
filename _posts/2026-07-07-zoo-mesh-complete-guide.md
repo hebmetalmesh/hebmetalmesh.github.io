@@ -11,6 +11,7 @@ Zoo mesh is the industry-standard stainless steel wire rope fencing solution for
 
 ## 📌 Key Takeaways
 
+<div class="table-wrapper">
 | # | Key Takeaway |
 |---|--------------|
 | 1 | **Zoo mesh** is a stainless steel wire rope fencing system offering superior strength, visibility, and 30+ year durability over traditional chain link or welded mesh |
@@ -18,7 +19,7 @@ Zoo mesh is the industry-standard stainless steel wire rope fencing solution for
 | 3 | **316 stainless steel** is mandatory for coastal zoos (within 50km of coastline) and high-ammonia environments; **304** suffices for most inland applications |
 | 4 | **Species-specific specifications** matter: predators need 3.2mm+ cable with 76-120mm openings; aviaries require finer mesh (1.2-2.4mm) to prevent feather damage |
 | 5 | **Total cost of ownership** favors 316-grade despite higher upfront cost—replacement costs (labor, animal downtime, safety risks) dwarf material savings |
-
+</div>
 
 > **🔒 Need zoo mesh for your facility?** Get a free specification consultation and quote tailored to your animal species and environmental conditions.
 >
