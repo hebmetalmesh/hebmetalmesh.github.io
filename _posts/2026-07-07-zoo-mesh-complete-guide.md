@@ -239,6 +239,8 @@ For larger spans and more natural aesthetics, zoo mesh can be tensioned between 
 
 Pre-fabricated panels with border designs simplify installation. Over 30 different border plans are available to meet various installation requirements.
 
+<p><strong>📘 Need a complete walkthrough?</strong> While this guide covers the core methods, achieving perfect tension, avoiding structural pitfalls, and tailoring the installation to specific species requires detailed, step-by-step expertise. For a full breakdown—including tool checklists, tensioning techniques for both tube and cable systems, and the <strong>6 most common zoo mesh installation mistakes</strong>—read our dedicated comprehensive guide: <a href="/zoo-mesh-installation-guide/" title="How to Install Zoo Mesh Correctly – Complete Step-by-Step Guide">How to Install Zoo Mesh Correctly: A Complete Step-by-Step Guide</a>. This resource ensures your 30+ year investment is protected from day one.</p>
+
 ![Stainless Steel Bird Enclosure Hebmetalmesh](/images/bird-enclosure-netting-hebmetalmesh-aviary.jpg)
 ## Procurement Considerations for Zoo Operators
 
