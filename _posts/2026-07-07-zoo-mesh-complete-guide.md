@@ -26,7 +26,7 @@ Zoo mesh is the industry-standard stainless steel wire rope fencing solution for
 >
 > **→ REQUEST A QUOTE TODAY ←** *ISO9001 certified • 30+ year lifespan • Custom sizes available • MOQ from 10m²*
 
-! [Hebmetalmeshstainless steel barrier mesh for security at a modern zoo and commercial complex.] (images/barrier-mesh-for-security.jpg）
+![Hebmetalmesh Stainless Steel Barriers for Zoo Tiger Enclosures](/images/barrier-mesh-for-security.jpg)
 
 ## What Is Zoo Mesh and Why Is It the Industry Standard?
 
@@ -98,7 +98,7 @@ For coastal zoos or facilities within 50 kilometers of the coastline, specifying
 
 **Zoo mesh** protects animals from external threats while preventing escapes. Its flexibility ensures animals can move freely while being safely contained. The nearly invisible nature of the mesh from a distance enhances visitor experiences by providing clear, unobstructed views of natural animal behaviors.
 
-
+![Wire Rope Mesh for Animals](/images/enclosure-for-animals.jpg)
 ## Types of Zoo Mesh: Choosing the Right Construction
 
 ### Ferrule-Type Zoo Mesh
@@ -229,7 +229,7 @@ For larger spans and more natural aesthetics, zoo mesh can be tensioned between 
 
 Pre-fabricated panels with border designs simplify installation. Over 30 different border plans are available to meet various installation requirements.
 
-
+![Stainless Steel Bird Enclosure Hebmetalmesh](/images/bird-enclosure-netting-hebmetalmesh-aviary.jpg)
 ## Procurement Considerations for Zoo Operators
 
 ### Total Cost of Ownership
