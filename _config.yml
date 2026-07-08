@@ -192,3 +192,8 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+sass:
+  load_paths:
+    - _sass
+    - _sass/custom
