@@ -197,7 +197,6 @@ Primates require enclosures that balance security with enrichment and visibility
 
 ### Stainless Steel 304 vs. 316
 
-<div class="table-wrapper">
   
 | Grade | Composition | Best Use Case | Cost |
 |-------|-------------|---------------|------|
