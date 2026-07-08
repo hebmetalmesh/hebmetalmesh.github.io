@@ -47,6 +47,7 @@ The material is manufactured from AISI 304, 304L, 316, or 316L stainless steel, 
 
 Understanding how zoo mesh compares to conventional fencing options is critical for procurement decisions. Here's a side-by-side comparison:
 
+<div class="table-wrapper">
 | Feature | Zoo Mesh (Stainless Steel Rope) | Chain Link Fencing | Welded Wire Mesh |
 |---------|--------------------------------|-------------------|------------------|
 | **Strength** | Exceptional—handwoven 7×19 cable construction | Moderate—machine-welded joints are weak points | Moderate—welds can fracture under impact |
@@ -56,7 +57,7 @@ Understanding how zoo mesh compares to conventional fencing options is critical 
 | **Animal Safety** | Prevents feather/fur damage, absorbs impact | Can cause injury with sharp edges | Sharp edges at weld points |
 | **Corrosion Resistance** | Excellent (316 grade superior) | Moderate—galvanized coating degrades | Moderate—depends on coating |
 | **Aesthetics** | Modern, elegant, premium | Industrial, utilitarian | Functional, basic |
-
+</div>
 **Zoo mesh offers several distinct advantages:**
 
 **Superior Strength-to-Visibility Ratio.** The handwoven stainless steel cable construction provides exceptional breaking force while maintaining high transparency. Unlike chain link fencing, zoo mesh allows visitors to observe animals without visual obstruction.
@@ -79,7 +80,7 @@ The service life of stainless steel zoo mesh exceeds 30 years, with many install
 **304 vs. 316 Stainless Steel — The Critical Decision**
 
 When procuring a zoo mesh system, the choice between 304 and 316 stainless steel is the single most important decision for your project's lifecycle.
-
+<div class="table-wrapper">
 | Factor | 304 Stainless Steel | 316 Stainless Steel |
 |--------|--------------------|--------------------|
 | **Corrosion Resistance** | Good—standard general resistance | Excellent—superior due to molybdenum content |
@@ -88,7 +89,7 @@ When procuring a zoo mesh system, the choice between 304 and 316 stainless steel
 | **Ammonia Resistance** | Moderate | Superior—stable in acidic/alkaline environments |
 | **Cost** | More economical | Premium pricing |
 | **Lifespan (coastal)** | May show oxidation in <10 years | 30+ years |
-
+</div>
 > *"While 316-grade carries a price premium, the cost of replacing a failing mesh system—including labor, downtime for the animals, and potential safety risks—dwarfs the initial material savings of using 304."*
 
 For coastal zoos or facilities within 50 kilometers of the coastline, specifying 316 is a critical investment to prevent premature degradation. Animal habitats also present a unique chemical challenge: high ammonia concentrations from waste. In poorly ventilated enclosures, ammonia interacts with moisture to accelerate micro-corrosion. 316-grade stainless steel offers superior stability in these acidic and alkaline environments.
@@ -127,14 +128,14 @@ Knotted-type zoo mesh is a 100% handwoven mesh made from high-tensile stainless 
 Knotted mesh provides the same physical properties as ferrule mesh but offers superior security for high-impact applications. It is the recommended choice for large predator enclosures, high-security perimeters, and facilities where animals may exert extreme force on barriers.
 
 ### Welded Wire Mesh vs. Chain Link vs. Expanded Metal
-
+<div class="table-wrapper">
 | Type | Best Application | Limitations |
 |------|------------------|-------------|
 | **Welded Wire Mesh** | Small mammals, reptiles | Stiff structure, stress-point fractures at welds |
 | **Chain Link** | Large enclosures, budget-conscious projects | Lower strength, obstructed visibility, shorter lifespan |
 | **Expanded Metal** | High-security areas | Solid barrier—no transparency, limited animal viewing |
 | **Crimped Wire Mesh** | Small bird aviaries | Corrosion-resistant but less flexible than rope mesh |
-
+</div>
 
 ## Zoo Mesh Specifications by Animal Type
 
@@ -143,7 +144,7 @@ Knotted mesh provides the same physical properties as ferrule mesh but offers su
 For large predators, zoo mesh must withstand significant impact forces and aggressive behavior.
 
 **Recommended specifications:**
-
+<div class="table-wrapper">
 | Specification | Requirement |
 |---------------|-------------|
 | **Cable Diameter** | 3.0mm – 3.2mm (1/8″) minimum |
@@ -151,7 +152,7 @@ For large predators, zoo mesh must withstand significant impact forces and aggre
 | **Strand Construction** | 7×19 for maximum tensile strength |
 | **Material Grade** | 316 for coastal; 304 for inland |
 | **Mesh Type** | Knotted-type preferred for maximum security |
-
+</div>
 > *Case Study: Taronga Zoo's Sumatran tiger enclosure uses X-Tend tensile mesh designed to absorb impacts from adult tigers running at 40 km/h. The 2500m² enclosure features a transparent roof made from woven 316 stainless steel mesh, combining high strength with lightweight construction.*
 
 ### Aviary and Bird Enclosures
@@ -159,7 +160,7 @@ For large predators, zoo mesh must withstand significant impact forces and aggre
 Bird enclosures require finer mesh to prevent feather damage and rodent intrusion.
 
 **Recommended specifications:**
-
+<div class="table-wrapper">
 | Specification | Requirement |
 |---------------|-------------|
 | **Cable Diameter** | 1.2mm – 2.4mm (3/64″ – 3/32″) |
@@ -167,7 +168,7 @@ Bird enclosures require finer mesh to prevent feather damage and rodent intrusio
 | **Strand Construction** | 7×7 |
 | **Material Grade** | 304 or 316 |
 | **Mesh Type** | Ferrule-type for aesthetics; knotted-type for larger birds |
-
+</div>
 Popular aviary hole sizes include 30mm × 30mm, 38mm × 38mm, and up to 150mm × 150mm. The finer mesh prevents birds from squeezing through gaps while maintaining excellent visibility.
 
 ### Primate and Small Mammal Enclosures
@@ -175,7 +176,7 @@ Popular aviary hole sizes include 30mm × 30mm, 38mm × 38mm, and up to 150mm ×
 Primates require enclosures that balance security with enrichment and visibility.
 
 **Recommended specifications:**
-
+<div class="table-wrapper">
 | Specification | Requirement |
 |---------------|-------------|
 | **Cable Diameter** | 1.6mm – 2.4mm |
@@ -183,17 +184,17 @@ Primates require enclosures that balance security with enrichment and visibility
 | **Strand Construction** | 7×7 or 7×19 |
 | **Material Grade** | 304 or 316 |
 | **Mesh Type** | Both ferrule and knotted suitable |
-
+</div>
 
 ## Material Grades and Finishes: What to Specify
 
 ### Stainless Steel 304 vs. 316
-
+<div class="table-wrapper">
 | Grade | Composition | Best Use Case | Cost |
 |-------|-------------|---------------|------|
 | **304** | 18% chromium, 8% nickel | Inland zoos, standard exhibits | $$ |
 | **316** | 16% chromium, 10% nickel, 2% molybdenum | Coastal zoos, high-humidity, high-ammonia | $$$ |
-
+</div>
 ### Coating and Finish Options
 
 **Natural Finish.** The raw stainless steel mesh provides a clean, modern look that blends with natural surroundings. Highly durable and corrosion-resistant.
@@ -234,7 +235,7 @@ Pre-fabricated panels with border designs simplify installation. Over 30 differe
 ### Total Cost of Ownership
 
 When evaluating zoo mesh suppliers, consider the full lifecycle cost:
-
+<div class="table-wrapper">
 | Cost Factor | 304 Grade (Inland) | 316 Grade (Coastal) |
 |-------------|-------------------|---------------------|
 | **Initial Material Cost** | Lower | Higher (premium) |
@@ -242,7 +243,7 @@ When evaluating zoo mesh suppliers, consider the full lifecycle cost:
 | **Maintenance Cost** | Minimal | Minimal |
 | **Replacement Risk** | Low (inland) | High (coastal, if 304 used) |
 | **Expected Lifespan** | 30+ years | 30+ years |
-
+</div>
 > *"A properly specified 316 system can reach a 30+ year lifespan, whereas a 304 system in a harsh environment may show signs of oxidation in less than a decade."*
 
 ### Customization Capabilities
