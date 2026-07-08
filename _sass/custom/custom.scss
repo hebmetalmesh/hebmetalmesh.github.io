@@ -1,20 +1,135 @@
-/* 让表格在手机上横向滚动 */
+/* ============================================
+   漂亮表格样式 - 专业、现代、响应式
+   ============================================ */
+
+/* 表格容器 - 支持横向滚动 */
 .table-wrapper {
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
-  margin: 1em 0;
+  margin: 1.5em 0;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
 }
 
 .table-wrapper table {
-  min-width: 600px;
   width: 100%;
+  min-width: 600px;
+  border-collapse: separate;
+  border-spacing: 0;
+  font-size: 0.95em;
+  background: #ffffff;
+  border-radius: 12px;
+  overflow: hidden;
 }
 
-/* 如果希望表格在手机上完全自适应（不滚动），用下面这个替代 */
-/* 
-table {
-  display: block;
-  overflow-x: auto;
-  white-space: nowrap;
+/* ===== 表头样式 ===== */
+.table-wrapper thead th {
+  background: linear-gradient(135deg, #1a3a5c 0%, #2a5f7a 100%);
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 0.9em;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  padding: 14px 18px;
+  text-align: left;
+  border: none;
+  position: sticky;
+  top: 0;
+  z-index: 2;
 }
-*/
+
+/* ===== 表格单元格 ===== */
+.table-wrapper tbody td {
+  padding: 12px 18px;
+  border-bottom: 1px solid #eef2f7;
+  color: #2d3748;
+  line-height: 1.6;
+  vertical-align: top;
+}
+
+/* ===== 行交替颜色 ===== */
+.table-wrapper tbody tr:nth-child(even) {
+  background-color: #f8fafc;
+}
+
+.table-wrapper tbody tr:nth-child(odd) {
+  background-color: #ffffff;
+}
+
+/* ===== 悬停效果 ===== */
+.table-wrapper tbody tr:hover {
+  background-color: #e6f0fa !important;
+  transition: background-color 0.2s ease;
+}
+
+/* ===== 最后一行的边框去掉 ===== */
+.table-wrapper tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* ===== 第一列加粗（如果有序号或特征词） ===== */
+.table-wrapper tbody td:first-child {
+  font-weight: 600;
+  color: #1a3a5c;
+}
+
+/* ===== 表格内强调文字 ===== */
+.table-wrapper tbody td strong {
+  color: #1a3a5c;
+}
+
+/* ===== 暗色模式适配 ===== */
+@media (prefers-color-scheme: dark) {
+  .table-wrapper {
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  }
+  
+  .table-wrapper table {
+    background: #1a1a2e;
+  }
+  
+  .table-wrapper thead th {
+    background: linear-gradient(135deg, #0d2137 0%, #1a3a5c 100%);
+  }
+  
+  .table-wrapper tbody td {
+    border-bottom-color: #2a2a4a;
+    color: #c8d0dc;
+  }
+  
+  .table-wrapper tbody tr:nth-child(even) {
+    background-color: #16162a;
+  }
+  
+  .table-wrapper tbody tr:nth-child(odd) {
+    background-color: #1a1a2e;
+  }
+  
+  .table-wrapper tbody tr:hover {
+    background-color: #1e2a4a !important;
+  }
+  
+  .table-wrapper tbody td:first-child {
+    color: #7ab7e6;
+  }
+  
+  .table-wrapper tbody td strong {
+    color: #7ab7e6;
+  }
+}
+
+/* ===== 响应式优化 ===== */
+@media (max-width: 768px) {
+  .table-wrapper table {
+    font-size: 0.85em;
+  }
+  
+  .table-wrapper thead th,
+  .table-wrapper tbody td {
+    padding: 10px 12px;
+  }
+  
+  .table-wrapper {
+    border-radius: 8px;
+  }
+}
