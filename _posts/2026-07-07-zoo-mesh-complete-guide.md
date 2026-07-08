@@ -12,7 +12,6 @@ Zoo mesh is the industry-standard stainless steel wire rope fencing solution for
 
 ## 📌 Key Takeaways
 
-
 | # | Key Takeaway |
 |---|--------------|
 | 1 | **Zoo mesh** is a stainless steel wire rope fencing system offering superior strength, visibility, and 30+ year durability over traditional chain link or welded mesh |
