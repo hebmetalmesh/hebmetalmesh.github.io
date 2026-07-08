@@ -197,3 +197,5 @@ sass:
   load_paths:
     - _sass
     - _sass/custom
+
+favicon: /assets/img/favicons/metalmesh.jpg
