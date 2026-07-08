@@ -26,6 +26,7 @@ Zoo mesh is the industry-standard stainless steel wire rope fencing solution for
 >
 > **→ REQUEST A QUOTE TODAY ←** *ISO9001 certified • 30+ year lifespan • Custom sizes available • MOQ from 10m²*
 
+![Hebmetalmesh high-tensile stainless steel barrier mesh for security at a modern zoo and commercial complex.](/images/barrier-mesh-for-security.jpg）
 
 ## What Is Zoo Mesh and Why Is It the Industry Standard?
 
