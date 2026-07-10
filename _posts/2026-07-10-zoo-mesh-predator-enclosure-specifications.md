@@ -8,7 +8,7 @@ toc: true
 description: "Choosing zoo mesh for predator enclosures? Get species-specific specifications for tigers, lions, and bears—3.2mm cable, 51-76mm apertures, 304 vs 316 grade selection. 30+ year durability. Read the complete guide."
 ---
 
-## Executive Summary (The Snippet Killer)
+## Executive Summary
 
 Predator enclosures demand the highest level of zoo mesh security. For adult tigers, lions, and bears, the industry standard specification is **3.2mm (1/8″) cable diameter** with **51mm × 51mm (2″ × 2″) to 76mm × 76mm (3″ × 3″) mesh apertures**, handwoven in **7×19 stainless steel rope construction** using **304-grade** (inland) or **316-grade** (coastal) material. A 3.2mm cable delivers a minimum breaking force of **7.38KN (approximately 1,660 lbs)** —sufficient to withstand the impact of a charging tiger or the bite force of an adult lion. Enclosure heights must reach **16.5–20 feet** for big cats, with buried foundations at least **3.28 feet (1 meter) deep** (5 feet for bears) to prevent digging. This guide provides species-specific specifications, material selection criteria, and procurement considerations for US zoo operators and wildlife facilities.
 
