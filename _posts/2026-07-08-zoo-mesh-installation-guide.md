@@ -275,6 +275,8 @@ Even with the best materials, improper installation can lead to loosening, defor
 - **Consider professional installation** — this is not a DIY project
 - **Test thoroughly** before introducing animals to the enclosure
 
+📋 Before you install, know your specs. Proper installation starts with selecting the right materials. For a complete reference on predator-specific zoo mesh specifications—including cable diameter, aperture size, and material grade requirements for tigers, lions, bears, and leopards—see our detailed guide: [**Zoo Mesh for Predator Enclosures: Complete Specifications for Tigers, Lions, Bears & Leopards**](https://hebmetalmesh.github.io/posts/zoo-mesh-predator-enclosure-specifications/). Get the specs right before you start tensioning.
+
 ### Aviary and Bird Enclosures
 
 - **Use the winding (lacing) method** — allows the mesh to move slightly with the frame, which is excellent for large, flexible aviary structures
