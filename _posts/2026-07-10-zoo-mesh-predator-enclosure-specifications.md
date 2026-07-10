@@ -24,15 +24,11 @@ description: "Choosing zoo mesh for predator enclosures? Get species-specific sp
 | 5 | **Enclosure height must reach 16.5–20 feet for tigers and other big cats**, with foundations buried 3.28 feet (1 meter) deep (5 feet for bears) to prevent digging out |
 
 
-<div style="background:#f0f7ff;border-left:6px solid #0056b3;padding:20px 25px;margin:20px 0;border-radius:4px;">
-
 **🦁 Need predator-grade zoo mesh for your facility?** Get a free species-specific specification consultation and quote tailored to your big cat or bear enclosure requirements.
 
 **[→ REQUEST A QUOTE TODAY ←](https://hebmetalmesh.com)**
 
 *3.2mm cable • 7×19 construction • 30+ year lifespan • Custom sizes available*
-
-</div>
 
 
 ## Why Predator Enclosures Demand the Highest-Grade Zoo Mesh
@@ -393,8 +389,6 @@ For tigers and lions, enclosures must be **16.5 – 20 feet (5 – 6 meters) hig
 **7×7 construction** (7 strands of 7 wires) balances flexibility and strength and is commonly used for lion enclosures. **7×19 construction** (7 strands of 19 wires) is softer, more flexible, and offers higher fatigue resistance—making it the preferred choice for tiger enclosures and high-impact zones. The 7×19 construction acts as a shock absorber, flexing under impact and returning to its original shape.
 
 
-<div style="background:#1a3a5c;color:#ffffff;padding:25px 30px;margin:30px 0;border-radius:6px;">
-
 **🛡️ Ready to specify predator-grade zoo mesh for your facility?**
 
 Get expert guidance on species-specific specifications, material selection, and competitive quoting from ISO9001-certified suppliers with 30+ years of experience.
@@ -403,7 +397,6 @@ Get expert guidance on species-specific specifications, material selection, and 
 
 *3.2mm cable • 7×19 construction • 30+ year lifespan • AZA/WAZA compliant • Technical support included*
 
-</div>
 
 ---
 
