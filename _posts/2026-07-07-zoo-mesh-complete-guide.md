@@ -160,6 +160,8 @@ For large predators, zoo mesh must withstand significant impact forces and aggre
 
 > *Case Study: Taronga Zoo's Sumatran tiger enclosure uses X-Tend tensile mesh designed to absorb impacts from adult tigers running at 40 km/h. The 2500m² enclosure features a transparent roof made from woven 316 stainless steel mesh, combining high strength with lightweight construction.*
 
+🦁 Need detailed predator specifications? The overview above covers the core requirements for big cat and bear enclosures. For a complete breakdown—including species-specific cable diameters, mesh aperture recommendations for perimeter vs. roof applications, 7×7 vs. 7×19 construction comparisons, and AZA/WAZA compliance requirements—read our dedicated guide: [**Zoo Mesh for Predator Enclosures: Complete Specifications for Tigers, Lions, Bears & Leopards**](https://hebmetalmesh.github.io/posts/zoo-mesh-predator-enclosure-specifications/). This resource ensures your predator habitat meets the highest safety standards.
+
 ### Aviary and Bird Enclosures
 
 Bird enclosures require finer mesh to prevent feather damage and rodent intrusion.
