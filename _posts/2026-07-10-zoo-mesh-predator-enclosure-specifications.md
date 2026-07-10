@@ -45,7 +45,7 @@ Predators such as tigers, lions, bears, and leopards present unique containment 
 
 **Zoo mesh**—specifically handwoven stainless steel cable mesh—has become the industry standard for predator enclosures because it combines exceptional tensile strength with the flexibility to absorb impacts without breaking. Unlike rigid chain-link that can deform or welded wire that can snap under pressure, stainless steel rope mesh "gives" slightly under impact, absorbing the force while returning to its original shape.
 
-> **📖 Need a refresher on zoo mesh basics?** Understanding predator specifications starts with the fundamentals—material grades (304 vs. 316), ferrule vs. knotted construction, and general procurement considerations. Our **[complete guide to zoo mesh](/https://hebmetalmesh.github.io/posts/zoo-mesh-complete-guide/)** covers everything you need to know before specifying predator-grade materials.
+> **📖 Need a refresher on zoo mesh basics?** Understanding predator specifications starts with the fundamentals—material grades (304 vs. 316), ferrule vs. knotted construction, and general procurement considerations. Our **[complete guide to zoo mesh](https://hebmetalmesh.github.io/posts/zoo-mesh-complete-guide/)** covers everything you need to know before specifying predator-grade materials.
 
 ### AZA and WAZA Compliance Requirements
 
