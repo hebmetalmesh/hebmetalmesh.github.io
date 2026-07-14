@@ -200,4 +200,4 @@ sass:
 
 plugins:
   - jekyll-feed
-  - jekyll-sitemap   # 确保这行存在且未被注释
+  - jekyll-sitemap
