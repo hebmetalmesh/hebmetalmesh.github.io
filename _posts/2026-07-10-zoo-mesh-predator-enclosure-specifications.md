@@ -14,7 +14,6 @@ Predator enclosures demand the highest level of zoo mesh security. For adult tig
 
 **MOQ: 10m² | Delivery: 2-7 working days **
 
-
 ## 📌 Key Takeaways
 
 | # | Key Takeaway |
