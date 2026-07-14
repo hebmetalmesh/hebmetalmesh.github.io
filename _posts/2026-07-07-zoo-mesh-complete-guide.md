@@ -180,6 +180,8 @@ Bird enclosures require finer mesh to prevent feather damage and rodent intrusio
 
 Popular aviary hole sizes include 30mm × 30mm, 38mm × 38mm, and up to 150mm × 150mm. The finer mesh prevents birds from squeezing through gaps while maintaining excellent visibility.
 
+🐦 Need detailed aviary specifications? The overview above covers the core requirements for bird enclosures. For a complete breakdown—including species-specific aperture sizes, cable diameter recommendations for different bird sizes, feather-safe design considerations, and rodent-proofing requirements—read our dedicated guide: [Aviary Mesh Guide: Choosing the Right Zoo Mesh for Bird Enclosures](https://hebmetalmesh.github.io/posts/aviary-mesh-guide/). This resource ensures your bird habitat meets the highest safety and welfare standards.
+
 ### Primate and Small Mammal Enclosures
 
 Primates require enclosures that balance security with enrichment and visibility.
