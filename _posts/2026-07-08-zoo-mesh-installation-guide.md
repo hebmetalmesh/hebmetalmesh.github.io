@@ -283,6 +283,8 @@ Even with the best materials, improper installation can lead to loosening, defor
 - **Finer mesh** requires more careful tensioning to prevent sagging
 - **Inspect regularly** for bird damage or attempted escapes
 
+📋 Before you install, know your specs. Proper installation starts with selecting the right materials. For a complete reference on bird-specific zoo mesh specifications—including aperture size, cable diameter, and material grade requirements for finches to eagles—see our detailed guide: [Aviary Mesh Guide: Choosing the Right Zoo Mesh for Bird Enclosures](https://hebmetalmesh.github.io/posts/aviary-mesh-guide/). Get the specs right before you start tensioning.
+
 ### Primate Enclosures
 
 - **Handwoven mesh** offers flexibility that allows it to drape and conform to complex, organic shapes, rock formations, and uneven terrain
