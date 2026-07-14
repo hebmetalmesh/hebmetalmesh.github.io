@@ -1,7 +1,7 @@
 ---
 title: "Zoo Mesh for Predator Enclosures: Complete Specifications for Tigers, Lions, Bears & Leopards"
 date: 2026-07-10 10:00:00 +0800
-categories: [technical guide]
+categories: [technical guide, Zoo-mesh-guide]
 tags: [predator enclosure, zoo mesh, tiger enclosure, lion enclosure, bear enclosure, 316 stainless steel]
 image: /images/flexible-predator-proof-perimeter-fencing-stainless-steel.webp
 toc: true
