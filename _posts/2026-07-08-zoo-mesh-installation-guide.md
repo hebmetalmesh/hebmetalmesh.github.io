@@ -1,7 +1,7 @@
 ---
 title: "Zoo Mesh Installation: The Complete Step-by-Step Guide for Tube Frame & Cable Tension Systems"
 date: 2026-07-08 10:00:00 +0800
-categories: [technical guide]
+categories: [technical guide, Zoo-mesh-guide]
 tags: [zoo mesh installation, tube frame, cable tension system, stainless steel enclosure]
 image: /images/zoo-mesh-installation-guide-cover.jpg
 keyword: "how to install zoo mesh on tube frame"
