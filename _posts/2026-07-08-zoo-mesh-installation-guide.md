@@ -339,6 +339,8 @@ Multiple panels can be joined using the "stitching" method—connect two edges u
 
 The most common mistake is under-tensioning—a sagging mesh panel fails to provide a rigid barrier. Other frequent errors include cutting mesh before fixing it to the frame, using incompatible carbon steel hardware, and skipping the reinforcement step where connections are secured with a larger-diameter wire rope.
 
+🔧 Installed your zoo mesh? Now keep it performing for decades. Proper installation is only half the story. Our [zoo mesh maintenance guide](https://hebmetalmesh.github.io/posts/zoo-mesh-maintenance-guide/) covers cleaning schedules, inspection checklists, and tension monitoring to ensure your enclosure remains safe and secure for 30+ years.
+
 
 **📋 Ready to install zoo mesh for your facility?**
 
