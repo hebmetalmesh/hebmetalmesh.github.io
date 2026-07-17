@@ -3,7 +3,7 @@ title: "Zoo Mesh Maintenance & Cleaning Guide: Best Practices for 30+ Year Longe
 date: 2026-07-17 10:00:00 +0800
 categories: [technical guide]
 tags: [zoo mesh maintenance, cleaning, inspection, tension monitoring, stainless steel care]
-image: /assets/img/zoo-mesh-installation-guide-cover.jpg
+image: images/zoo-mesh-installation-guide-cover.jpg
 toc: true
 description: "Learn how to maintain and clean stainless steel zoo mesh for 30+ year durability. Step-by-step cleaning, inspection checklists, disinfection protocols, and tension monitoring. Read the complete maintenance guide."
 ---
