@@ -318,6 +318,7 @@ Yes. Zoo mesh is available in custom wire diameters (typically 1.0mm-4.0mm), mes
 
 While not entirely maintenance-free, stainless steel zoo mesh requires very minimal upkeep. Its corrosion-resistant properties eliminate the need for regular painting or coating. Periodic inspection (at least monthly) for signs of wear, corrosion, or damage is recommended. Clean with mild soap and water; avoid abrasive cleaners or harsh chemicals that can damage protective coatings. For thorough disinfection, use animal-safe disinfectants and consider temporarily relocating animals during the process.
 
+🧹 Want to keep your zoo mesh looking new for 30+ years? Proper maintenance is just as important as choosing the right specifications. Our [complete maintenance and cleaning guide](https://hebmetalmesh.github.io/posts/zoo-mesh-maintenance-guide/) covers step-by-step cleaning procedures, inspection checklists, disinfection protocols, and tension monitoring to maximize your enclosure's lifespan.
 
 > **📋 Ready to specify zoo mesh for your facility?**
 >
