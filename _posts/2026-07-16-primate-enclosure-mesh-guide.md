@@ -380,6 +380,8 @@ Follow the **aperture safety rule**: ensure the mesh opening is either **small e
 
 Chain link mesh is **generally not recommended for great apes** because it is less resistant to the destructive skills of apes. Unlike stainless steel rope mesh, chain link can be deformed by pulling and biting, may have sharp edges, and provides inferior visibility. **Handwoven stainless steel zoo mesh** is the industry standard for professional primate enclosures.
 
+🧹 Maintaining your primate enclosure? Regular cleaning and inspection are essential for long-term safety and durability. Our [complete zoo mesh maintenance guide](https://hebmetalmesh.github.io/posts/zoo-mesh-complete-guide/) covers everything you need to know—from cleaning schedules to tension monitoring.
+
 **🦍 Ready to specify primate enclosure mesh for your facility?**
 
 Get expert guidance on species-specific specifications, finger-safe design, material selection, and competitive quoting from ISO9001-certified suppliers with 30+ years of experience.
