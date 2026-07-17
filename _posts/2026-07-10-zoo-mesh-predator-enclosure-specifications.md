@@ -389,6 +389,7 @@ For tigers and lions, enclosures must be **16.5 – 20 feet (5 – 6 meters) hig
 
 **7×7 construction** (7 strands of 7 wires) balances flexibility and strength and is commonly used for lion enclosures. **7×19 construction** (7 strands of 19 wires) is softer, more flexible, and offers higher fatigue resistance—making it the preferred choice for tiger enclosures and high-impact zones. The 7×19 construction acts as a shock absorber, flexing under impact and returning to its original shape.
 
+🧹 Maintaining your predator enclosure? Regular cleaning and inspection are essential for long-term safety and durability. Our [complete zoo mesh maintenance guide](https://hebmetalmesh.github.io/posts/zoo-mesh-complete-guide/) covers everything you need to know—from cleaning schedules to tension monitoring.
 
 **🛡️ Ready to specify predator-grade zoo mesh for your facility?**
 
