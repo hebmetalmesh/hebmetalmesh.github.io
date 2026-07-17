@@ -343,6 +343,8 @@ High-quality stainless steel **aviary mesh** delivers a **service life of over 3
 
 Yes. Stainless steel **aviary mesh** is **too strong for rodents to chew through**. To be fully rodent-proof, the **mesh aperture must be 1 inch (2.54cm) or smaller**—a very large rat can squeeze through 1″ square openings. For small bird aviaries, **1/2″ aperture** is recommended for maximum rodent protection.
 
+🧹 Maintaining your aviary enclosure? Regular cleaning and inspection are essential for long-term safety and durability. Our [complete zoo mesh maintenance guide](https://hebmetalmesh.github.io/posts/zoo-mesh-complete-guide/) covers everything you need to know—from cleaning schedules to tension monitoring.
+
 **🕊️ Ready to specify aviary mesh for your bird enclosure?**
 
 Get expert guidance on species-specific specifications, material selection, and competitive quoting from ISO9001-certified suppliers with 30+ years of experience.
