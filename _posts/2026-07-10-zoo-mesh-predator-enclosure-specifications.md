@@ -391,6 +391,8 @@ For tigers and lions, enclosures must be **16.5 – 20 feet (5 – 6 meters) hig
 
 🧹 Maintaining your predator enclosure? Regular cleaning and inspection are essential for long-term safety and durability. Our [complete zoo mesh maintenance guide](https://hebmetalmesh.github.io/posts/zoo-mesh-complete-guide/) covers everything you need to know—from cleaning schedules to tension monitoring.
 
+⬛ Want a nearly invisible, glare-free finish? Black oxide zoo mesh offers enhanced corrosion resistance and aesthetic benefits for predator exhibits. Learn more in our [complete guide to black oxide zoo mesh](https://hebmetalmesh.github.io/posts/black-oxide-zoo-mesh-guide/).
+
 **🛡️ Ready to specify predator-grade zoo mesh for your facility?**
 
 Get expert guidance on species-specific specifications, material selection, and competitive quoting from ISO9001-certified suppliers with 30+ years of experience.
