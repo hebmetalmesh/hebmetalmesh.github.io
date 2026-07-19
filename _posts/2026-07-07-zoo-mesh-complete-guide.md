@@ -320,6 +320,8 @@ While not entirely maintenance-free, stainless steel zoo mesh requires very mini
 
 🧹 Want to keep your zoo mesh looking new for 30+ years? Proper maintenance is just as important as choosing the right specifications. Our [complete maintenance and cleaning guide](https://hebmetalmesh.github.io/posts/zoo-mesh-maintenance-guide/) covers step-by-step cleaning procedures, inspection checklists, disinfection protocols, and tension monitoring to maximize your enclosure's lifespan.
 
+⬛ Considering black oxide for your zoo mesh? The black oxide finish offers enhanced corrosion resistance, glare reduction, and aesthetic benefits for primate, aviary, and predator exhibits. Our [complete guide to black oxide zoo mesh](https://hebmetalmesh.github.io/posts/black-oxide-zoo-mesh-guide/) covers the oxidation process, specification tables, and comparison with natural finish.
+
 > **📋 Ready to specify zoo mesh for your facility?**
 >
 > Get expert guidance on material selection, species-specific specifications, and competitive quoting from ISO9001-certified suppliers.
