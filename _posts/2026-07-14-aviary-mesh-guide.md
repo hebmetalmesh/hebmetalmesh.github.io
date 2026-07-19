@@ -355,6 +355,8 @@ Get expert guidance on species-specific specifications, material selection, and 
 
 📖 Need a refresher on zoo mesh basics? Understanding aviary specifications starts with the fundamentals—material grades (304 vs. 316), ferrule vs. knotted construction, and general procurement considerations. Our [complete guide to zoo mesh](https://hebmetalmesh.github.io/posts/zoo-mesh-complete-guide/) covers everything you need to know before specifying bird enclosure materials.
 
+⬛ Want a nearly invisible, glare-free finish? Black oxide zoo mesh offers enhanced corrosion resistance and aesthetic benefits for aviary exhibits. Learn more in our [complete guide to black oxide zoo mesh](https://hebmetalmesh.github.io/posts/black-oxide-zoo-mesh-guide/).
+
 🔧 Ready to install your aviary mesh? Once you've selected the right specifications, proper installation is critical for safety and longevity. Our [step-by-step zoo mesh installation guide](https://hebmetalmesh.github.io/posts/zoo-mesh-installation-guide/) covers tube frame and cable tension methods, tensioning techniques, and the 6 most common mistakes to avoid.
 
 ---
