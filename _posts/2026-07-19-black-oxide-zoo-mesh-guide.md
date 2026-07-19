@@ -2,6 +2,7 @@
 title: "Black Oxide Zoo Mesh: Benefits, Aesthetics & Complete Specifications"
 date: 2026-07-19 10:00:00 +0800
 categories: [Zoo-mesh-guide]
+image: images/stainless-cable-mesh-from-hebmetalmesh.jpg
 tags: [black oxide, zoo mesh, stainless steel finish, corrosion resistance, glare reduction]
 
 toc: true
