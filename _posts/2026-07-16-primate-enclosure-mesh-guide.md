@@ -382,6 +382,8 @@ Chain link mesh is **generally not recommended for great apes** because it is le
 
 🧹 Maintaining your primate enclosure? Regular cleaning and inspection are essential for long-term safety and durability. Our [complete zoo mesh maintenance guide](https://hebmetalmesh.github.io/posts/zoo-mesh-complete-guide/) covers everything you need to know—from cleaning schedules to tension monitoring.
 
+⬛ Want a nearly invisible, glare-free finish? Black oxide zoo mesh offers enhanced corrosion resistance and aesthetic benefits for primate exhibits. Learn more in our [complete guide to black oxide zoo mesh](https://hebmetalmesh.github.io/posts/black-oxide-zoo-mesh-guide/).
+
 **🦍 Ready to specify primate enclosure mesh for your facility?**
 
 Get expert guidance on species-specific specifications, finger-safe design, material selection, and competitive quoting from ISO9001-certified suppliers with 30+ years of experience.
