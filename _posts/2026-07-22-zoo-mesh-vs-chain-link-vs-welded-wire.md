@@ -339,20 +339,15 @@ Welded wire mesh fails at the weld points—the weakest part of the structure. W
 
 Yes. While zoo mesh has a higher upfront cost, its near-zero maintenance and 30+ year lifespan make it the lowest total cost of ownership option. Over a 10-year period, stainless steel rope mesh delivers a **3x higher ROI** than welded wire. When you factor in animal safety, visitor experience, and replacement costs, zoo mesh is the most cost-effective choice for professional facilities.
 
-
-<div style="background:#1a3a5c;color:#ffffff;padding:25px 30px;margin:30px 0;border-radius:6px;">
-
-<strong>🔍 Not sure which fencing is right for your facility?</strong>
+🔍 Not sure which fencing is right for your facility?
 
 Get expert guidance on material selection, species-specific recommendations, and competitive quoting from ISO9001-certified suppliers with 30+ years of experience.
 
-<a href="https://hebmetalmesh.com" ><strong>GET YOUR FREE COMPARISON</strong></a>
+→ [GET YOUR FREE COMPARISON] ←
 
-**→ [GET YOUR FREE COMPARISON](https://hebmetalmesh.com) ←**
+Expert consultation • Species-specific specs • 30+ year lifespan • Technical support included
 
-*Expert consultation • Species-specific specs • 30+ year lifespan • Technical support included*
 
-</div>
 
 ---
 
