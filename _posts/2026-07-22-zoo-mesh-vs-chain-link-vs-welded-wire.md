@@ -24,17 +24,11 @@ description: "Comparing zoo mesh, chain link, and welded wire for animal enclosu
 | 5 | **316-grade stainless steel zoo mesh is non-toxic** and safe for mouthing animals—unlike galvanized chain link which carries zinc toxicity risks |
 | 6 | While zoo mesh has a higher upfront cost, its near-zero maintenance and 30-year lifespan deliver a **3x higher ROI** over a 10-year period compared to welded wire |
 
-
-<div style="background:#f0f7ff;border-left:6px solid #0056b3;padding:20px 25px;margin:20px 0;border-radius:4px;">
-
 **🔍 Not sure which fencing is right for your facility?** Get a free consultation and compare specifications for your specific animal species and environmental conditions.
 
 **[→ REQUEST A FREE COMPARISON ←](https://hebmetalmesh.com)**
 
 *Expert guidance • Species-specific recommendations • 30+ year durability*
-
-</div>
-
 
 ## The Three Contenders: Understanding Your Options
 
@@ -348,9 +342,11 @@ Yes. While zoo mesh has a higher upfront cost, its near-zero maintenance and 30+
 
 <div style="background:#1a3a5c;color:#ffffff;padding:25px 30px;margin:30px 0;border-radius:6px;">
 
-**🔍 Not sure which fencing is right for your facility?**
+<strong>🔍 Not sure which fencing is right for your facility?</strong>
 
 Get expert guidance on material selection, species-specific recommendations, and competitive quoting from ISO9001-certified suppliers with 30+ years of experience.
+
+<a href="https://hebmetalmesh.com" ><strong>GET YOUR FREE COMPARISON</strong></a>
 
 **→ [GET YOUR FREE COMPARISON](https://hebmetalmesh.com) ←**
 
