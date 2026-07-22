@@ -88,6 +88,8 @@ Having the right tools on hand makes the installation process smoother and more 
 
 > **Pro Tip:** Use only stainless steel hardware and fasteners. Carbon steel components will rust and compromise the integrity of your **stainless steel zoo mesh** installation.
 
+**📋 Not sure you chose the right material?** Before you start installing, make sure you've selected the right fencing for your application. Our comprehensive comparison of [zoo mesh vs chain link vs welded wire](/zoo-mesh-vs-chain-link-vs-welded-wire/) covers lifespan, safety, visibility, and total cost of ownership—so you can install with confidence.
+
 
 ## Method 1 — Tube Frame Installation
 
