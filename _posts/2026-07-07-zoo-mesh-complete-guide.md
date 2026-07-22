@@ -197,6 +197,7 @@ Primates require enclosures that balance security with enrichment and visibility
 | **Material Grade** | 304 or 316 |
 | **Mesh Type** | Both ferrule and knotted suitable |
 
+**📋 Not sure you chose the right material?** Before you start installing, make sure you've selected the right fencing for your application. Our comprehensive comparison of [zoo mesh vs chain link vs welded wire](https://hebmetalmesh.github.io/posts/zoo-mesh-vs-chain-link-vs-welded-wire/) covers lifespan, safety, visibility, and total cost of ownership—so you can install with confidence.
 
 ## Material Grades and Finishes: What to Specify
 
