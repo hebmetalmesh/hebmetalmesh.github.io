@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Zoo Mesh Cost Guide: Price per Square Meter & Total Cost of Ownership"
 date: 2026-07-26 10:00:00 +0800
 categories: [technical guide]
