@@ -265,7 +265,6 @@ When evaluating zoo mesh suppliers, consider the full lifecycle cost:
 
 > *"A properly specified 316 system can reach a 30+ year lifespan, whereas a 304 system in a harsh environment may show signs of oxidation in less than a decade."*
 >
-💰 Want a detailed cost breakdown? The overview above covers the basics of zoo mesh pricing and TCO. For a complete guide—including price ranges by specification, volume discount tables, 304 vs. 316 cost comparison, installation labor estimates, and 5 tips for saving on your zoo mesh investment—read our dedicated guide: [**Zoo Mesh Cost Guide: Price per Square Meter & Total Cost of Ownership**](https://hebmetalmesh.github.io/posts/zoo-mesh-cost-guide.md). This resource helps you budget accurately and maximize ROI.
 
 ### Customization Capabilities
 
