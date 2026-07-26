@@ -4,7 +4,7 @@ title: "Zoo Mesh Cost Guide: Price per Square Meter & Total Cost of Ownership"
 date: 2026-07-26 10:00:00 +0800
 categories: [technical guide]
 tags: [zoo mesh cost]
-image: images/perimeter-netting-high-tensile-black-oxide-stainless-steel-mesh.jpg
+image: /images/perimeter-netting-high-tensile-black-oxide-stainless-steel-mesh.jpg
 toc: true
 description: "How much does zoo mesh cost? Get price ranges from $7.58–$88.32/m², learn what factors affect pricing, and understand why 316-grade stainless steel delivers the lowest total cost of ownership. Read the complete cost guide."
 permalink: /posts/zoo-mesh-cost-guide/
