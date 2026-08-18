@@ -1,1 +1,4 @@
+User-agent: *
+Disallow:
 
+Sitemap: https://cute-pasca-18e799.netlify.app/sitemap.xml
